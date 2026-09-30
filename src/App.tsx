@@ -112,7 +112,7 @@ export default function App() {
       <header className="hero">
         <div className="hero-badge">carousels beat reels in 2026 · saved 9× more</div>
         <h1>
-          Slide<span className="accent">Stack</span>
+          Slide<span className="accent">Gram</span>
         </h1>
         <p className="tagline">
           Topic in → save-worthy Instagram carousel out. Written by Claude, drawn in your
@@ -269,7 +269,7 @@ export default function App() {
       </main>
 
       <footer>
-        Built by Myan Patel · powered by Claude Fable 5 ·{" "}
+        Built by Wizard of Hahz · powered by Claude Fable 5 ·{" "}
         <a href="https://github.com/myanptl" target="_blank" rel="noreferrer">
           github.com/myanptl
         </a>
